@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BonBon App</string>
+    // Simple Activity
+    <string name="lbl_post_count">31</string>
+    <string name="lbl_pengikut_count">740</string>
+    <string name="lbl_mengikuti_count">901</string>
+    <string name="lbl_post">Postingan</string>
+    <string name="lbl_pengikut">Pengikut</string>
+    <string name="lbl_mengikuti">Mengikuti</string>
+    <string name="lbl_username">Indah Putri Herni</string>
+    <string name="lbl_bio">One bad chapter doesn\'t mean u story is over</string>
+
+    // Explicit Intent Activity
+    <string name="stok">Stok</string>
+    <string name="kota_ketapang">Kota Ketapang</string>
+    <string name="dikirim_dari">Dikirim Dari</string>
+    <string name="exp">01-09-2022</string>
+    <string name="kadaluarsa">Tanggal \nKadaluwarsa</string>
+    <string name="whiskas">Whiskas</string>
+    <string name="merek">Merek</string>
+    <string name="stok_x">793</string>
+    <string name="rincian_produk">Rincian Produk</string>
+    <string name="rating">7RB Terjual | 4.9</string>
+    <string name="harga">Rp 30.000</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="namawhiskas">WHISKAS Makanan Kucing Kering Rasa Tuna 480 Gr</string>
+    <string name="photos">5 Photos</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="deskripsi_produk">Deskripsi Produk</string>
+    <string name="isi_desk">1. WHISKAS makanan kucing lengkap dan seimbang, dirancang khusus untuk memenuhi kebutuhan kucing Anda pada tahap kehidupan mereka.\n2. Renyah di luar dengan tekstur lembut yang creamy di tengah. \n3. Lengkungan WHISKAS Dry akan membantu merawat kesehatan mulut dan gigi mereka. \n4. Diperkaya dengan omega 3 dan 6, asam lemak dan seng untuk kulit sehat dan bulu yang mengkilap. \n5. Vitamin A dan taurine yang ditingkatkan untuk Penglihatan sehat. \n6. Protein berkualitas yang dipilih dari ikan sungguhan, termasuk lemak, vitamin dan mineral untuk hidup dan energik.</string>
+    <string name="beli_sekarang">Beli Sekarang</string>
+    <string name="cart">TODO</string>
+    <string name="chate">TODO</string>
+</resources>
